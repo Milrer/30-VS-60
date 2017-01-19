@@ -1,0 +1,64 @@
+/* RECOPIE OU MODIFICATION AUTORISEE SOUS RESERVE DE LAISSER LA SIGNATURE "A LNL Production" http://louisnicolasleuillet.com */
+
+html {
+	font-size: 14px;
+	font-family: arial;
+	margin: 0; padding: 0;
+}
+
+body {
+	background: url("../pictures/bgpattern.png");
+	margin: 0; padding: 0;
+}
+
+/* ELEMENTS DE BASE */
+
+h1 {
+	font-size: 30px;
+}
+
+a {
+	text-decoration: none;
+	color: grey;
+}
+
+footer {
+	color: grey;
+	margin: 40px;
+	text-align: center;
+}
+
+/* ID ET CLASSES */
+
+#logoSize {
+	width: 100%;
+}
+
+.contener {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.description {
+	padding: 10px;
+	text-align: center;
+	font-size: 19px;
+}
+
+.menu {
+	background: #2c3e50;
+	text-align: center;
+}
+
+.link {
+	color: white;
+	padding: 10px;
+	height: 20px;
+	width: 119px;
+	display: inline-block;
+}
+
+.link:hover {
+	background: #34495e;
+	color: white;
+}
